@@ -3,7 +3,7 @@ Automated Testing of SauceDemo using Python Selenium and Pytest
 
 ## Description
 
-This respository contains a Python pragram that performs Orange HRM Application Automation utilize Selenium WebDriver to automate various test cases.
+This respository contains a Python program that performs Orange HRM Application Automation utilize Selenium WebDriver to automate various test cases.
 ## Project Description
 
 This project automates testing of the SauceDemo Application using Python Selenium and Pytest. It covers both positive and negative test cases.
